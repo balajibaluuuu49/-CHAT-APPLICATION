@@ -1,4 +1,15 @@
 # -CHAT-APPLICATION
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: J.Balaji yadav
+
+INTERN ID:CT06DH1589
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 WEEEKS
+
+MENTOR:NEELA SANTOSH
 # 💬 Real-Time Chat Application
 
 
