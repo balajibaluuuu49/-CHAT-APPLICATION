@@ -332,4 +332,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Built with ❤️ using Socket.IO and modern web technologies**
 
-##output:
+##output: <img width="1181" height="788" alt="Image" src="https://github.com/user-attachments/assets/881c88b9-7ee1-4995-95e1-e71b82c804d3" />
